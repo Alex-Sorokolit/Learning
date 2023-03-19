@@ -1,3 +1,3 @@
 # Learning platform
 
-[App schema](./assets/Schema.jpg)
+![App schema](./assets/Schema.jpg)
