@@ -70,7 +70,8 @@ const Layout = () => {
                   {text}
                 </NavItem>
               ))}
-              {courseId !== '' &&
+              {progress !== '' &&
+                courseId !== '' &&
                 order !== '' &&
                 position !== '' &&
                 location.pathname === '/courses' && (
